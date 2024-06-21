@@ -1,5 +1,6 @@
  class Armstrong {
 
+\\This is modified by shankar
 	public static void main(String args[])
 	{
 		for(int i=1;i<=500;i++)
@@ -21,10 +22,7 @@
 		}if(i==sum)
 	    	   System.out.println(i+" armstrong");
 		
-		}
-
-         
-		
+		}  
     	   
 	}
 

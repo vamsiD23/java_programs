@@ -21,4 +21,5 @@ System.out.println("coupen code discount = 25");
 System.out.println("total amount paid="+(1870-(credit+coupen)));
 
 
-}}
+}
+}
