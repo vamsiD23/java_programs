@@ -2,7 +2,7 @@ class Age
 {
     public static void main(String arg[])
     {
-     int person=490;
+     int person=500;
      if (person>=50)
       System.out.println("he is a senior citizen");
      else if (person>=18) 
